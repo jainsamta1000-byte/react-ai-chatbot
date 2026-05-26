@@ -1,16 +1,48 @@
-# React + Vite
+# 🤖 AI Chatbot (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive AI-powered chatbot interface built with **React** and **Vite**. This project demonstrates how to integrate AI capabilities into a sleek, user-friendly frontend.
 
-Currently, two official plugins are available:
+## 🚀 Features
+* **Fast & Lightweight:** Built using Vite for instant server start.
+* **Responsive Design:** Fully optimized for mobile and desktop.
+* **Modern UI:** Clean, intuitive chat interface.
+* **Easy Integration:** Ready to be connected to any LLM API (OpenAI, Anthropic, etc.).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+* **Frontend:** React, Vite
+* **Styling:** CSS
+* **Language:** JavaScript
 
-## React Compiler
+## 📦 How to Run Locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your computer.
 
-## Expanding the ESLint configuration
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/jainsamta1000-byte/react-ai-chatbot.git](https://github.com/jainsamta1000-byte/react-ai-chatbot.git)
+Navigate to the folder:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Bash
+cd react-ai-chatbot
+Install dependencies:
+
+Bash
+npm install
+Start the development server:
+
+Bash
+npm run dev
+Open in browser:
+Follow the link shown in your terminal (usually http://localhost:5173).
+
+💡 How to Contribute
+Feel free to open an Issue or submit a Pull Request if you have any suggestions to improve the bot!
+
+Built by Samta Jain
+<img width="1920" height="928" alt="Screenshot 2026-05-26 213216" src="https://github.com/user-attachments/assets/4e03e079-afc1-436a-a8e0-1e8d1a050a76" />
+
+Feel free to open an Issue or submit a Pull Request if you have any suggestions to improve the bot!
+
+Built by Samta Jain
